@@ -1,1 +1,2 @@
 Hello world of Odin.
+Test VS code as git commit message editor
